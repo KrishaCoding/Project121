@@ -1,0 +1,55 @@
+h1
+{
+    color:purple;
+    background-color: cornsilk;
+    font-weight: bold;
+}
+
+body 
+{
+    background-color:pink;
+}
+
+.img-responsive
+{
+    height: 300px;
+}
+
+.test_image_and_result
+  {
+    float: none;
+    background: white ;
+    padding: 250px; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+
+  .copy_right_footer
+  {
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color:lightsalmon;
+    line-height: 3;
+    text-align: center;
+  }
+
+  #vs
+  {
+    color:darkmagenta;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  #Mobilenet_png
+  {
+    width: 300px;
+    height: 300px;
+  }
+
+  #final_result
+  {
+    color: maroon;
+  }
